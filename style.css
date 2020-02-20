@@ -1,3 +1,23 @@
 body {
-	background: lightblue
+	background: #fff;
+}
+div{
+	text-align:center;
+}
+h1{
+	text-align: center;
+	color: #ff00e9;
+}
+p{
+	color: #ff7b2e;
+	text-align: center;
+}
+img{
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+footer{
+	text-align: center;
 }
